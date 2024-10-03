@@ -1,0 +1,16 @@
+a.Completed{
+    background-color: green;
+    border: 2px solid darkgreen;
+}
+a.Open{
+    background-color: red;
+    border: 2px solid darkred;
+}
+a.Progress{
+    background-color: orange;
+    border: 2px solid darkorange;
+}
+
+.fc-event{
+    cursor: pointer;
+}
